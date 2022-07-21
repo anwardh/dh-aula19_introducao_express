@@ -4,7 +4,8 @@
 
 ## Requisito
 
-- [  ] Node.js 14.x ou superior
+- [ ] Node.js 14.x ou superior
+
 
 ## Instalação
 
